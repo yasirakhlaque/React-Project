@@ -1,1 +1,1 @@
- The place where react projects are placed.
+The place where react projects are placed.
