@@ -15,7 +15,7 @@ export default function Des() {
                 </div>
             </div>
             <div className={`${styles.des_img}`}>
-               <img src="public\shoes.jpg" alt="shoes image" />
+               <img src="public/images/shoes.jpg" alt="shoes image" />
             </div>
         </div>
 
