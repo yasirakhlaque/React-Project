@@ -30,3 +30,9 @@
     height: 100%;
     width: 100%;
 }
+
+@media screen and (max-width:768px){
+    .des_main{
+        flex-direction: column;
+    }
+}
