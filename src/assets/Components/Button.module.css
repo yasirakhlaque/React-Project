@@ -1,0 +1,9 @@
+button{
+    height: 5vh;
+    width: 15vh;
+    background-color: rgb(173, 17, 17);
+    color: #f1f1f1;
+    font-weight: 900;
+    border: none;
+    cursor: pointer;
+}
